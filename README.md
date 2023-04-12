@@ -2,7 +2,7 @@
 16K Games Cartridge for the Commodore 64
 
 
-A games cartridge requiring minimal parts!
+Further details and images can be found here --> https://www.inimblesloth.com/commodore-64-16k-cartridge/!
 
 Use your favourite EPROM programmer to burn up to 4 x 16K Commodore 64 games to the EPROM.
 16k games written to the following addresses:
